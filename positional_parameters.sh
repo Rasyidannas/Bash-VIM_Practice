@@ -7,3 +7,9 @@ echo "10th script's argument (\${10}) is ${10}"
 echo "11th script's argument (\${11}) is ${11}"
 
 echo "Script name (\$0) is $0"
+
+echo "\$# is $#"
+echo "\$@ is $@"
+echo "\$* is $*"
+echo "\$? is $?"
+echo "\$$ is $$"
